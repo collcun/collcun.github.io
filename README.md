@@ -1,2 +1,2 @@
 # collcun.github.io
-twitter.com/collcun
+https://www.twitter.com/collcun
