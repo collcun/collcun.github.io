@@ -1,2 +1,2 @@
 # collcun.github.io
-https://www.twitter.com/collcun
+portfolio page for [https://www.twitter.com/collcun](@collcun)
